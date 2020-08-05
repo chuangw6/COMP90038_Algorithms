@@ -36,7 +36,7 @@ upcoming...
 
 ### **:page_facing_up:Notes**
 ---
->Feedbacks and comments are more than welcome!\
+>Feedback and comments are more than welcome!\
 >Please contact the author. Thanks a lot!
 
 
