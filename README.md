@@ -2,7 +2,7 @@
 
 ### **:point_right:Purpose**
 ---
-This repository contains tutorial slides and tutorial sample solutions of the subject [COMP90038](https://handbook.unimelb.edu.au/2020/subjects/comp90038) Semester2 2020 given by [Prof. Toby Murray](https://people.eng.unimelb.edu.au/tobym/#teaching) and [Dr. Casey Myers](https://findanexpert.unimelb.edu.au/profile/861123-casey-myers) at the [University of Melbourne](https://www.unimelb.edu.au/). The repo also contains a list of useful resources about algorithms, data structures and Python etc.
+This repository contains tutorial slides and tutorial sample solutions of the subject [COMP90038](https://handbook.unimelb.edu.au/2020/subjects/comp90038) Semester2 2020 given by [Prof. Toby Murray](https://people.eng.unimelb.edu.au/tobym/) and [Dr. Casey Myers](https://findanexpert.unimelb.edu.au/profile/861123-casey-myers) at the [University of Melbourne](https://www.unimelb.edu.au/). The repo also contains a list of useful resources about algorithms, data structures and Python etc.
 
 ### **:running:Author**
 ---
