@@ -16,19 +16,19 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 ### **:bookmark_tabs:Contents**
 ---
 
-| Tutorial | Topic | Date |
-| ------ | ------ |-----|
-| [Tutorial 1]() |  | 
-| [Tutorial 2]() |  | 
-| [Tutorial 3]() |  | 
-| [Tutorial 4]() |  | 
-| [Tutorial 5]() |  | 
-| [Tutorial 6]() |  | 
-| [Tutorial 7]() |  | 
-| [Tutorial 8]() |  | 
-| [Tutorial 9]() |  | 
-| [Tutorial 10]() |  | 
-| [Tutorial 11]() |  | 
+| Tutorial        | Topic | Date |
+| --------------- | ----- | ---- |
+| [Tutorial 1]()  |`Tutorial 1 Introduction to algorithms and data structures`| 11 Aug 2020 - 14 Aug 2020
+| [Tutorial 2]()  |       | 17 Aug 2020 - 21 Aug 2020
+| [Tutorial 3]()  |       | 24 Aug 2020 - 28 Aug 2020
+| [Tutorial 4]()  |       | 31 Aug 2020 - 04 Sep 2020
+| [Tutorial 5]()  |       | 07 Sep 2020 - 11 Sep 2020
+| [Tutorial 6]()  |       | 14 Sep 2020 - 18 Sep 2020
+| [Tutorial 7]()  |       | 21 Sep 2020 - 25 Sep 2020
+| [Tutorial 8]()  |       | 28 Sep 2020 - 02 Oct 2020
+| [Tutorial 9]()  |       | 12 Oct 2020 - 16 Oct 2020
+| [Tutorial 10]() |       | 19 Oct 2020 - 23 Oct 2020
+| [Tutorial 11]() |       | 26 Oct 2020 - 30 Oct 2020
 
 ### **:file_folder:Resources**
 ---
