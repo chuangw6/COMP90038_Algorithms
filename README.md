@@ -32,7 +32,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 
 ### **:file_folder:Resources**
 ---
-upcoming...
+coming up...
 
 ### **:page_facing_up:Notes**
 ---
