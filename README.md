@@ -32,7 +32,8 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 
 ### **:file_folder:Resources**
 ---
-coming up...
+- [MIT Big-O notation notes](https://web.mit.edu/16.070/www/lecture/big_o.pdf)
+- [Big-O cheatsheet](https://www.bigocheatsheet.com/)
 
 ### **:page_facing_up:Notes**
 ---
