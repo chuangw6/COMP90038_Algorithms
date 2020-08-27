@@ -36,6 +36,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 - [Big-O cheatsheet](https://www.bigocheatsheet.com/)
 - [Interview Question: Anagram Detection](https://web.stanford.edu/class/cs9/sample_probs/Anagrams.pdf)
 - [Recursion Notes from Princeton University](https://introcs.cs.princeton.edu/java/23recursion/#:~:text=The%20base%20case%20returns%20a,part%20of%20a%20recursive%20function.)
+- [Generate all permutation of a set in Python](https://www.geeksforgeeks.org/generate-all-the-permutation-of-a-list-in-python/)
 
 ### **:page_facing_up:Notes**
 ---
