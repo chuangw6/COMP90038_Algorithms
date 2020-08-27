@@ -35,6 +35,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 - [MIT Big-O notation notes](https://web.mit.edu/16.070/www/lecture/big_o.pdf)
 - [Big-O cheatsheet](https://www.bigocheatsheet.com/)
 - [Interview Question: Anagram Detection](https://web.stanford.edu/class/cs9/sample_probs/Anagrams.pdf)
+- [Recursion Notes from Princeton University](https://introcs.cs.princeton.edu/java/23recursion/#:~:text=The%20base%20case%20returns%20a,part%20of%20a%20recursive%20function.)
 
 ### **:page_facing_up:Notes**
 ---
