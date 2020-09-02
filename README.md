@@ -32,11 +32,17 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 
 ### **:file_folder:Resources**
 ---
-- [MIT Big-O notation notes](https://web.mit.edu/16.070/www/lecture/big_o.pdf)
-- [Big-O cheatsheet](https://www.bigocheatsheet.com/)
-- [Interview Question: Anagram Detection](https://web.stanford.edu/class/cs9/sample_probs/Anagrams.pdf)
-- [Recursion Notes from Princeton University](https://introcs.cs.princeton.edu/java/23recursion/#:~:text=The%20base%20case%20returns%20a,part%20of%20a%20recursive%20function.)
-- [Generate all permutation of a set in Python](https://www.geeksforgeeks.org/generate-all-the-permutation-of-a-list-in-python/)
+- Complexity
+  - [MIT Big-O notation notes](https://web.mit.edu/16.070/www/lecture/big_o.pdf)
+  - [Big-O cheatsheet](https://www.bigocheatsheet.com/)
+  
+- Brute Force and Recursion
+  - [Interview Question: Anagram Detection](https://web.stanford.edu/class/cs9/sample_probs/Anagrams.pdf)
+  - [Recursion Notes from Princeton University](https://introcs.cs.princeton.edu/java/23recursion/#:~:text=The%20base%20case%20returns%20a,part%20of%20a%20recursive%20function.)
+  - [Generate all permutation of a set in Python](https://www.geeksforgeeks.org/generate-all-the-permutation-of-a-list-in-python/)
+  
+- Graphs
+  - [Why does the time complexity of DFS and BFS depend on the way the graph is represented?](https://stackoverflow.com/questions/23925009/why-does-the-time-complexity-of-dfs-and-bfs-depend-on-the-way-the-graph-is-repre#:~:text=The%20site%20http%3A%2F%2Fweb,is%20O(V2).)
 
 ### **:page_facing_up:Notes**
 ---
