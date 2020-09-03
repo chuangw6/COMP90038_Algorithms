@@ -43,6 +43,8 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
   
 - Graphs
   - [Why does the time complexity of DFS and BFS depend on the way the graph is represented?](https://stackoverflow.com/questions/23925009/why-does-the-time-complexity-of-dfs-and-bfs-depend-on-the-way-the-graph-is-repre#:~:text=The%20site%20http%3A%2F%2Fweb,is%20O(V2).)
+  - [Animation of DFS](https://www.youtube.com/watch?v=NUgMa5coCoE)
+  - [Animation of BFS](https://www.youtube.com/watch?v=x-VTfcmrLEQ)
 
 ### **:page_facing_up:Notes**
 ---
