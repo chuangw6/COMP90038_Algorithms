@@ -45,6 +45,8 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
   - [Why does the time complexity of DFS and BFS depend on the way the graph is represented?](https://stackoverflow.com/questions/23925009/why-does-the-time-complexity-of-dfs-and-bfs-depend-on-the-way-the-graph-is-repre#:~:text=The%20site%20http%3A%2F%2Fweb,is%20O(V2).)
   - [Animation of DFS](https://www.youtube.com/watch?v=NUgMa5coCoE)
   - [Animation of BFS](https://www.youtube.com/watch?v=x-VTfcmrLEQ)
+  - [Complexity of factorial recursion function: O(N)](https://medium.com/@syedtousifahmed/calculating-the-factorial-of-number-recursively-time-and-space-analysis-dd47ac5f2607)
+  - [Complexity of powerset recursion function: O(N^2)](https://stackoverflow.com/questions/24577176/why-powerset-gives-2n-time-complexity#:~:text=So%20basically%20it%20turns%20out,time%20complexity%20is%202%5En.)
 
 ### **:page_facing_up:Notes**
 ---
