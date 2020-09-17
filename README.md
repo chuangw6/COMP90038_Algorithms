@@ -23,7 +23,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 | [Tutorial 3](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial3_Brute_Force_and_Recursion.pdf)  | Brute Force and Recursion | 24 Aug 2020 - 28 Aug 2020
 | [Tutorial 4](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial4_Graphs_and_Graph_Traversal.pdf)  | Graphs and Graph Traversal Algorithms | 31 Aug 2020 - 04 Sep 2020
 | [Tutorial 5](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial5_Decrease_and_Conquer.pdf)  | Decrease and Conquer | 07 Sep 2020 - 11 Sep 2020
-| [Tutorial 6]()  |       | 14 Sep 2020 - 18 Sep 2020
+| [Tutorial 6](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial6_Divide_and_Conquer.pdf)  | Divide and Conquer | 14 Sep 2020 - 18 Sep 2020
 | [Tutorial 7]()  |       | 21 Sep 2020 - 25 Sep 2020
 | [Tutorial 8]()  |       | 28 Sep 2020 - 02 Oct 2020
 | [Tutorial 9]()  |       | 12 Oct 2020 - 16 Oct 2020
