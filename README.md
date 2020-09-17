@@ -48,6 +48,9 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
   - [Complexity of factorial recursion function: O(N)](https://medium.com/@syedtousifahmed/calculating-the-factorial-of-number-recursively-time-and-space-analysis-dd47ac5f2607)
   - [Complexity of powerset recursion function: O(N^2)](https://stackoverflow.com/questions/24577176/why-powerset-gives-2n-time-complexity#:~:text=So%20basically%20it%20turns%20out,time%20complexity%20is%202%5En.)
 
+- Sorting Algorithms
+  - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+  
 ### **:page_facing_up:Notes**
 ---
 >Feedback and comments are more than welcome!\
