@@ -51,6 +51,9 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 - Sorting Algorithms
   - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
   
+- Trees
+  - [When to use Preorder, Postorder, and Inorder Binary Search Tree Traversal strategies](https://stackoverflow.com/questions/15019449/applications-of-preorder-postorder-traversals-of-a-binary-tree)
+  
 ### **:page_facing_up:Notes**
 ---
 >Feedback and comments are more than welcome!\
