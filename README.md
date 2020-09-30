@@ -54,7 +54,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 - Trees
   - [When to use Preorder, Postorder, and Inorder Binary Search Tree Traversal strategies](https://stackoverflow.com/questions/9456937/when-to-use-preorder-postorder-and-inorder-binary-search-tree-traversal-strate)
   - [Red Black Tree](https://www.wikiwand.com/en/Red%E2%80%93black_tree#:~:text=As%20of%20Java%208%2C%20the,to%20O(log%20n).)
-  - HashMap improvements in Java8. [Link 1](http://coding-geek.com/how-does-a-hashmap-work-in-java/#JAVA_8_improvements), [Link2](https://dzone.com/articles/hashmap-performance)
+  - HashMap improvements in Java8. [Link 1: souce code explanation](https://stackoverflow.com/questions/43911369/hashmap-java-8-implementation), [Link 2: article](http://coding-geek.com/how-does-a-hashmap-work-in-java/#JAVA_8_improvements), [Link 3: visualize performance](https://dzone.com/articles/hashmap-performance)
   
 ### **:page_facing_up:Notes**
 ---
