@@ -26,7 +26,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 | [Tutorial 6](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial6_Divide_and_Conquer.pdf)  | Divide and Conquer | 14 Sep 2020 - 18 Sep 2020
 | [Tutorial 7](/Tutorial7_Trees_PriorityQueues_Heaps_Heapsort.pdf)  |    Trees, PriorityQueues, Heaps and Heapsort   | 21 Sep 2020 - 25 Sep 2020
 | [Tutorial 8](/Tutorial8_AVL_Tree_and_2-3_Tree.pdf)  |  AVL Tree and 2-3 Tree     | 28 Sep 2020 - 02 Oct 2020
-| [Tutorial 9](/Tutorial9_Time-Space-Tradeoffs_Hashing.pdf)  |   Tutorial9 Time/Space Tradeoffs and Hashing    | 12 Oct 2020 - 16 Oct 2020
+| [Tutorial 9](/Tutorial9_Time-Space-Tradeoffs_Hashing.pdf)  |   Time/Space Tradeoffs and Hashing    | 12 Oct 2020 - 16 Oct 2020
 | [Tutorial 10]() |       | 19 Oct 2020 - 23 Oct 2020
 | [Tutorial 11]() |       | 26 Oct 2020 - 30 Oct 2020
 
