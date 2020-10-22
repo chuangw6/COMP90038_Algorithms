@@ -50,6 +50,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 
 - Sorting Algorithms
   - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+  - [Insertion Sort vs. Selection Sort](https://stackoverflow.com/questions/15799034/insertion-sort-vs-selection-sort)
   
 - Trees
   - [When to use Preorder, Postorder, and Inorder Binary Search Tree Traversal strategies](https://stackoverflow.com/questions/9456937/when-to-use-preorder-postorder-and-inorder-binary-search-tree-traversal-strate)
