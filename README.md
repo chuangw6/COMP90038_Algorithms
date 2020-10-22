@@ -18,15 +18,15 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
 
 | Tutorial        | Topic | Date |
 | --------------- | ----- | ---- |
-| [Tutorial 1](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial1_Introduction_to_algorithms_and_data_structures.pdf)  | Introduction to Algorithms and Data Structures | 11 Aug 2020 - 14 Aug 2020
-| [Tutorial 2](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial2_Analysis_of_Algorithm_Complexity.pdf) | Analysis of Algorithm Complexity | 17 Aug 2020 - 21 Aug 2020
-| [Tutorial 3](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial3_Brute_Force_and_Recursion.pdf)  | Brute Force and Recursion | 24 Aug 2020 - 28 Aug 2020
-| [Tutorial 4](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial4_Graphs_and_Graph_Traversal.pdf)  | Graphs and Graph Traversal Algorithms | 31 Aug 2020 - 04 Sep 2020
-| [Tutorial 5](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial5_Decrease_and_Conquer.pdf)  | Decrease and Conquer | 07 Sep 2020 - 11 Sep 2020
-| [Tutorial 6](https://github.com/chuangw46/COMP90038_Algorithms/blob/master/Tutorial6_Divide_and_Conquer.pdf)  | Divide and Conquer | 14 Sep 2020 - 18 Sep 2020
-| [Tutorial 7](/Tutorial7_Trees_PriorityQueues_Heaps_Heapsort.pdf)  |    Trees, PriorityQueues, Heaps and Heapsort   | 21 Sep 2020 - 25 Sep 2020
-| [Tutorial 8](/Tutorial8_AVL_Tree_and_2-3_Tree.pdf)  |  AVL Tree and 2-3 Tree     | 28 Sep 2020 - 02 Oct 2020
-| [Tutorial 9](/Tutorial9_Time-Space-Tradeoffs_Hashing.pdf)  |   Time/Space Tradeoffs and Hashing    | 12 Oct 2020 - 16 Oct 2020
+| [Tutorial 1](/Tutorial01_Introduction_to_algorithms_and_data_structures.pdf)  | Introduction to Algorithms and Data Structures | 11 Aug 2020 - 14 Aug 2020
+| [Tutorial 2](/Tutorial02_Analysis_of_Algorithm_Complexity.pdf) | Analysis of Algorithm Complexity | 17 Aug 2020 - 21 Aug 2020
+| [Tutorial 3](/Tutorial03_Brute_Force_and_Recursion.pdf)  | Brute Force and Recursion | 24 Aug 2020 - 28 Aug 2020
+| [Tutorial 4](/Tutorial04_Graphs_and_Graph_Traversal.pdf)  | Graphs and Graph Traversal Algorithms | 31 Aug 2020 - 04 Sep 2020
+| [Tutorial 5](/Tutorial05_Decrease_and_Conquer.pdf)  | Decrease and Conquer | 07 Sep 2020 - 11 Sep 2020
+| [Tutorial 6](/Tutorial06_Divide_and_Conquer.pdf)  | Divide and Conquer | 14 Sep 2020 - 18 Sep 2020
+| [Tutorial 7](/Tutorial07_Trees_PriorityQueues_Heaps_Heapsort.pdf)  |    Trees, PriorityQueues, Heaps and Heapsort   | 21 Sep 2020 - 25 Sep 2020
+| [Tutorial 8](/Tutorial08_AVL_Tree_and_2-3_Tree.pdf)  |  AVL Tree and 2-3 Tree     | 28 Sep 2020 - 02 Oct 2020
+| [Tutorial 9](/Tutorial09_Time-Space-Tradeoffs_Hashing.pdf)  |   Time/Space Tradeoffs and Hashing    | 12 Oct 2020 - 16 Oct 2020
 | [Tutorial 10](/Tutorial10_Dynamic_Programming.pdf) |   Dynamic Programming    | 19 Oct 2020 - 23 Oct 2020
 | [Tutorial 11]() |       | 26 Oct 2020 - 30 Oct 2020
 
