@@ -58,6 +58,10 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/comp90
     - [souce code explanation](https://stackoverflow.com/questions/43911369/hashmap-java-8-implementation)
     - [article](http://coding-geek.com/how-does-a-hashmap-work-in-java/#JAVA_8_improvements)
     - [visualize performance](https://dzone.com/articles/hashmap-performance)
+
+- Dynamic Programming
+  - [Algorithms by Jeff Erickson - Chapter 3](https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf)
+  - [Exploring Fibonacci](https://indrabasak.github.io/exploring-fibonacci/) 
   
 ### **:page_facing_up:Notes**
 ---
